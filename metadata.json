@@ -1,0 +1,6 @@
+{
+  "name": "Bus wale bhaiya",
+  "description": "Stream 100% pure 90s Bollywood evergreen hits on the ultimate nostalgic bus journey with cassettes, radio, and lyrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
